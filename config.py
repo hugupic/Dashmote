@@ -1,6 +1,6 @@
 mysql_config = {
     'user': 'root',
-    'password': 'TF0mW3e5pQlMewbQLsQfbSUbEq',
+    'password': 'toor',
     'host': '127.0.0.1',
-    'database': 'mote'
+    'database': 'dashmote'
 }

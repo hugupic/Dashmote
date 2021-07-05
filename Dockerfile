@@ -1,5 +1,5 @@
 FROM python:3
-LABEL maintainer="jxphxufh@gmail.com"
+LABEL maintainer="huguespicard.hp@gmail.com"
 EXPOSE 5000/tcp
 
 ENV API_HOST=127.0.0.1

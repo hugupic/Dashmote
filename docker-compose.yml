@@ -7,8 +7,8 @@ services:
       - ~/data/mote/mysql1:/var/lib/mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: TF0mW3e5pQlMewbQLsQfbSUbEq
-      MYSQL_DATABASE: mote
+      MYSQL_ROOT_PASSWORD: toor
+      MYSQL_DATABASE: dashmote
 
   api:
     depends_on:
